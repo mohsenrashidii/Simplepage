@@ -1,0 +1,59 @@
+@font-face{
+	font-family: 'Mitra.ttf';
+  src: url(font/Mitra.ttf) format('ttf');
+}
+body {
+  font-family:"Mitra.tff", sans-serif;
+  background:url("img/bak.jpg") no-repeat fixed center;
+  font-size: 40px;
+  letter-spacing: normal;
+  font-weight: 100;
+  direction:rtl;
+}
+ .box{
+    width: 1300px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;    
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+	text-align:center;
+    font-family: 'Century Gothic',sans-serif;
+  }
+  .footer{
+    width: 450px;
+    background: rgba(0,0,0,0.3);
+    padding: 40px;    
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+  }
+    .box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  h1{
+	  text-align:center;
+	  font-family:Mitra.tff,sans-serif;	 
+      letter-spacing: normal;
+	  font-size:35px;
+      font-weight: 100;
+  }
+  h2{
+	  text-align:center;
+	  font-family:Mitra.tff,sans-serif;	 
+      letter-spacing: normal;
+      font-weight: 100;
+  } 
+  p{
+	  text-align:center;
+	  font-family:Mitra.tff,sans-serif;	 
+      letter-spacing: normal;
+	  font-size:30px;
+      font-weight: 100;
+  }
+
+  
+
